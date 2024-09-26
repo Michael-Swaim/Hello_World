@@ -1,11 +1,11 @@
 # Hello_World
 [Description] - Initial Repository test run
 
-[Project Title]-(#projecttitle)
+[Project Title]
 
 ## Experiment 1
 *This may be important...*
 **or maybe not...**
 [Thats for me to know...]
-'''and for you to find out...
+___and for you to find out___
 **Expirment 1, log end**
